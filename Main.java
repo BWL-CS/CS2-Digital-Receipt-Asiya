@@ -9,6 +9,7 @@
     //  PART C VARIABLS 
       int orderNumber =  (int)(Math.random()*100) + 1; 
       int numDrinks =  (int)(Math.random()*3) ;
+      int numbCandies = (int)(Math.random()*3) ; 
    
    
    
